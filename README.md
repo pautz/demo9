@@ -6,14 +6,8 @@ https://carlitoslocacoes.com/mariane/
 https://carlitoslocacoes.com/mariane/cp_telefone.php
 
 ESP32 wrover kit
-✨ Como funciona:
+🌟 Explicação para publicação
+💡 Seguro Farol – Sempre aceso, sempre protegendo 💡
+Com o ESP32, cada cliente é identificado pela sua caixa_postal. Enquanto o dispositivo está conectado à energia e à rede, ele envia sinais constantes para o sistema, garantindo que o segurado esteja sempre monitorado.
 
-Conecta automaticamente ao Wi‑Fi (rede configurada no esp32: Mariane, senha: mari9515).
-
-Envia alerta silencioso para o painel web.
-
-Mostra chamados em vermelho, em tempo real.
-
-Botão Atender para registrar e encerrar cada chamado.
-
-Histórico completo dos atendimentos, sem perder dados.
+👉 Isso significa que, enquanto o farol está aceso, você tem a certeza de que existe uma rede de proteção ativa, pronta para agir.
