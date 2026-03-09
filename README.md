@@ -3,6 +3,8 @@ https://carlitoslocacoes.com/geoposition/chamados.php
 
 https://carlitoslocacoes.com/mariane/
 
+https://carlitoslocacoes.com/mariane/cp_telefone.php
+
 ESP32 wrover kit
 ✨ Como funciona:
 
