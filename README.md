@@ -2,7 +2,7 @@
 https://carlitoslocacoes.com/geoposition/chamados.php
 https://carlitoslocacoes.com/mariane/
 
-
+ESP32 wrover kit
 ✨ Como funciona:
 
 Conecta automaticamente ao Wi‑Fi (rede configurada no esp32: Mariane, senha: mari9515).
