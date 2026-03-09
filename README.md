@@ -3,7 +3,7 @@ https://carlitoslocacoes.com/geoposition/chamados.php
 
 ✨ Como funciona:
 
-Conecta automaticamente ao Wi‑Fi (rede: Mariane, senha: mari9515).
+Conecta automaticamente ao Wi‑Fi (rede configurada no esp32: Mariane, senha: mari9515).
 
 Envia alerta silencioso para o painel web.
 
